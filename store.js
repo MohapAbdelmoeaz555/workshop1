@@ -4,3 +4,4 @@ for (let index = 0; index < arr.length; index++) {
     sum+=arr[index]
     
 }
+console.log(sum);
